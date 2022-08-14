@@ -8,10 +8,10 @@ My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, S
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                                        | Description                                              | Tech/tools        |
+| ----------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
+| [**Notekeeper App**](https://github.com/iniffur/NoteKeeper) | A simple notekeeper app built as part of a Udemy course. | React, Jest, etc. |
+| **Something else worked on**                                | A webapp to do y.                                        | Ruby              |
 
 ## Work Experience
 
