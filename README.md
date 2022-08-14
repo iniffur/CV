@@ -1,6 +1,10 @@
-## Your Name
+## James Ruffini
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a hard-working and motivated aspiring Developer, with experience working in Operations in Financial Services, and IT Support; while also having an additional background in Physics and Environmental Science. I enjoy working effectively as part of a team, which has been key in my previous roles and lab work at university.
+
+I am currently learning to code and expanding my knowledge of the tech industry as a whole at Makers Academy, taking part in a 12 week software development bootcamp.
+
+My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
 
 ## Projects
 
@@ -23,6 +27,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 - Analysed fund holdings data in order to find opportunities to gain new clients
 - Designed and produced marketing content - including custom email templates, built with HTML and CSS
+- Oversaw design elements, and contributed to the development of the company's new website - built with Ruby on Rails. The website is currently up and running with over 1000 active users.
 
 ## Skills
 
@@ -74,4 +79,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-In my spare time, I enjoy running, playing football, travelling and spending Ɵme with my family and friends. I also have a keen interest in poker.
+In my spare time, I enjoy running, playing football, travelling and spending time with my family and friends. I also have a keen interest in poker.
