@@ -11,15 +11,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-Maple Technology (June 2020 - July 2022) - Full Time/Part Time  
-Service Desk Analyst & Procurement Coordinator
+### Maple Technology (June 2020 - July 2022) - Full Time/Part Time  
+#### Service Desk Analyst & Procurement Coordinator
 
 - Kept track of all inventory and was responsible for all supply chain demands
 - Managed all billing and payroll, and organised all company expenditure using Xero
 - Handled and responded to all client service requests, as well as maintained a strong rapport with clients.
 
-Independent Research Forum (November 2020 - December 2021)  
-Operations Associate
+### Independent Research Forum (November 2020 - December 2021)  
+#### Operations Associate
 
 - Analysed fund holdings data in order to find opportunities to gain new clients
 - Designed and produced marketing content - including custom email templates, built with HTML and CSS
