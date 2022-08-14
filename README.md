@@ -11,15 +11,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Maple Technology (June 2020 - July 2022) - Full Time/Part Time  
+Service Desk Analyst & Procurement Coordinator
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Kept track of all inventory and was responsible for all supply chain demands
+- Managed all billing and payroll, and organised all company expenditure using Xero
+- Handled and responded to all client service requests, as well as maintained a strong rapport with clients.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Independent Research Forum (November 2020 - December 2021)  
+Operations Associate
 
-- Any experience relevent to software development
+- Analysed fund holdings data in order to find opportunities to gain new clients
+- Designed and produced marketing content - including custom email templates, built with HTML and CSS
 
 ## Skills
 
@@ -53,9 +56,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-# Makers Academy - London, UK (July-November 2022)
+### Makers Academy - London, UK (July-November 2022)
 
-# University of Exeter (2015-2018)
+### University of Exeter (2015-2018)
 
 - Physics with Astrophysics
 - Grade: 2.2
