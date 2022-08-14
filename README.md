@@ -53,9 +53,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-Makers Academy - London, UK (July-November 2022)
+# Makers Academy - London, UK (July-November 2022)
 
-University of Exeter (2015-2018)
+# University of Exeter (2015-2018)
 
 - Physics with Astrophysics
 - Grade: 2.2
@@ -69,6 +69,6 @@ University of Exeter (2015-2018)
 
 That in some arguable way make you a better software developer or well-rounded person
 
-Hobbies
+## Hobbies
 
 In my spare time, I enjoy running, playing football, travelling and spending Ɵme with my family and friends. I also have a keen interest in poker.
