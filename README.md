@@ -31,33 +31,17 @@ My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, S
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Strong communication
 
--STAR
--What was the situation/task? (ST)
+By working at many different roles in various sized companies - I believe I have been able to develop very strong communication skills. Much of my most recent role involved constant communication with client in order to maintain and build upon existing relatioinships - and my strong communication skills there in allowed service desk requests to be resolved smoothly.
 
--How was the skill used?
+#### Fast Learner & Ability to Self Teach
 
--What did you do? (action)
+I have always found myself to be quick to learn new things and quick to adapt to new situations. During my role at the Independent Research Forum, due to the nature of the company, I found myself moved between projects very often and was kept on my toes. Being able to learn fast and grasp understandings of new company processes and technologies that I had not previously been exposed to led to a stronger work performance in comparision to others placed in similar situations. An example of this being when I was tasked to head up designing and crafting email templates; while I didn't have any prior experience with design or HTML and CSS, I was able to self teach and adapt to produce a solid end result.
 
--What was the result?
+#### Problem Solving
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My problem solving skills were tested at their peak during my time at university - where in many of my modules were highly analytical and problem based. While I believe I have always possessed strong mathematical and logical thinking skills, they were developed and refined even more so here. More specifically, during my final dissertation - where very little was given in the way of guidance of how to achieve outcomes based on the initial hypothesis.
 
 ## Education
 
@@ -72,10 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   - IT and Astrophysics skills with MATLAB
   - Scientific Programming in C
   - Mathematics with Physical Applications
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+  
 
 ## Hobbies
 
