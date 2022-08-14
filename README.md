@@ -10,7 +10,7 @@ My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, S
 
 | Name                                                        | Description                                              | Tech/tools        |
 | ----------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
-| [**Notekeeper App**](https://github.com/iniffur/NoteKeeper) | A simple notekeeper app built as part of a Udemy course. | React, Jest, etc. |
+| [**Notekeeper App**](https://github.com/iniffur/NoteKeeper) | A simple notekeeper app built as part of a Udemy course. | React, HTML, CSS |
 | [**Student Directory**](https://github.com/iniffur/student-directory)                              | Student Directory challenge completed as part of Makers Pre-Course                                      | Ruby              |
 
 ## Work Experience
