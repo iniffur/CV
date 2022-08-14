@@ -1,4 +1,4 @@
-## James Ruffini
+# James Ruffini
 
 I am a hard-working and motivated aspiring Developer, with experience working in Operations in Financial Services, and IT Support; while also having an additional background in Physics and Environmental Science. I enjoy working effectively as part of a team, which has been key in my previous roles and lab work at university.
 
