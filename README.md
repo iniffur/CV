@@ -53,25 +53,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Makers Academy - London, UK (July-November 2022)
 
-#### Your University / College (start_date to end_date)
+University of Exeter (2015-2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Physics with Astrophysics
+- Grade: 2.2
+- Dissertation title: "Modelling of the Earth's atmosphere and investigating the effects of Climate Change"
+- Other notable modules include:
+  - IT and Astrophysics skills with MATLAB
+  - Scientific Programming in C
+  - Mathematics with Physical Applications
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my spare time, I enjoy running, playing football, travelling and spending Ɵme with my family and friends. I also have a keen interest in poker.
