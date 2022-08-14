@@ -19,29 +19,29 @@ My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, S
 #### Service Desk Analyst & Procurement Coordinator
 
 - Kept track of all inventory and was responsible for all supply chain demands
-- Managed all billing and payroll, and organised all company expenditure using Xero
-- Handled and responded to all client service requests, as well as maintained a strong rapport with clients.
+- Managed all billing and payroll and organised all company expenditure using Xero
+- Handled and responded to all client service requests while maintaing a strong rapport with clients.
 
 ### Independent Research Forum (November 2020 - December 2021)  
 #### Operations Associate
 
 - Analysed fund holdings data in order to find opportunities to gain new clients
-- Designed and produced marketing content - including custom email templates, built with HTML and CSS
-- Oversaw design elements, and contributed to the development of the company's new website - built with Ruby on Rails. The website is currently up and running with over 1000 active users.
+- Designed and produced marketing content - including custom email templates built with HTML and CSS
+- Oversaw design elements and contributed to the development of the company's new website - built with Ruby on Rails. The website is currently up and running with over 1000 active users.
 
 ## Skills
 
 #### Strong communication
 
-By working at many different roles in various sized companies - I believe I have been able to develop very strong communication skills. Much of my most recent role involved constant communication with client in order to maintain and build upon existing relatioinships - and my strong communication skills there in allowed service desk requests to be resolved smoothly.
+By working at many different roles in various sized companies - I believe I have been able to develop very strong communication skills. Much of my most recent role involved constant communication with clients to maintain and build upon existing relatioinships - and my strong communication skills there in allowed service desk requests to be resolved smoothly.
 
 #### Fast Learner & Ability to Self Teach
 
-I have always found myself to be quick to learn new things and quick to adapt to new situations. During my role at the Independent Research Forum, due to the nature of the company, I found myself moved between projects very often and was kept on my toes. Being able to learn fast and grasp understandings of new company processes and technologies that I had not previously been exposed to led to a stronger work performance in comparision to others placed in similar situations. An example of this being when I was tasked to head up designing and crafting email templates; while I didn't have any prior experience with design or HTML and CSS, I was able to self teach and adapt to produce a solid end result.
+I have always found myself to be quick to learn new things and adapt to new situations. During my role at the Independent Research Forum, due to the nature of the company, I found myself moved between projects very often and was kept on my toes. Being able to learn fast and grasp understandings of new company processes and technologies that I had not previously been exposed to led to a stronger work performance in comparision to others placed in similar situations. An example of this being when I was tasked to head up designing and crafting email templates; while I didn't have any prior experience with design or HTML and CSS, I was able to self teach and adapt to produce a solid end result.
 
 #### Problem Solving
 
-My problem solving skills were tested at their peak during my time at university - where in many of my modules were highly analytical and problem based. While I believe I have always possessed strong mathematical and logical thinking skills, they were developed and refined even more so here. More specifically, during my final dissertation - where very little was given in the way of guidance of how to achieve outcomes based on the initial hypothesis.
+My problem solving skills were tested at their peak during my time at university - where many of my modules were highly analytical and problem based. While I believe I have always possessed mathematical and logical thinking skills, they were further developed and refined more so here. More specifically, during my final dissertation - where very little was given in the way of guidance of how to achieve outcomes based on the initial hypothesis.
 
 ## Education
 
