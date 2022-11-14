@@ -2,9 +2,63 @@
 
 I am a hard-working and motivated aspiring Developer, with experience working in Operations in Financial Services, and IT Support; while also having an additional background in Physics and Environmental Science. I enjoy working effectively as part of a team, which has been key in my previous roles and lab work at university.
 
-I am currently learning to code and expanding my knowledge of the tech industry as a whole at Makers Academy, taking part in a 12 week software development bootcamp.
+I have recently completed my 16-week intensive development bootcamp at Makers Academy - one of UK's most esteemed software development training providers - and I am currently looking for my first full time role as a developer. Prior to Makers, my previous IT skills included proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
 
-My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
+## Technical Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr VALIGN=TOP>
+      <td>
+        <ul>
+          <li>JavaScript</li>
+          <li>TypeScript</li>
+          <li>Ruby</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Node.js</li>
+          <li>React</li>
+          <li>Express</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Sinatra</li>
+          <li>Handlebars</li>
+          <li>EJS</li>
+          <li>Bootstrap & MDB</li>
+          <li>Git</li>
+          <li>Jest</li>
+          <li>Cypress</li>
+          <li>Rspec</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Agile working</li>
+          <li>Test Driven Development</li>
+          <li>Object Oriented Design</li>
+          <li>RESTful APIs</li>
+          <li>Pair Programming & Group working</li>
+          <li>Git Workflow</li>
+          <li>Code Visibility</li>
+          <li>Debugging Practices</li>
+          <li>ESLint & Prettier</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Projects
 
@@ -25,9 +79,10 @@ My IT skills include proficiency and daily use of Microsoft Office, Bloomberg, S
 ### Independent Research Forum (November 2020 - December 2021)  
 #### Operations Associate
 
-- Analysed fund holdings data in order to find opportunities to gain new clients
+- Oversaw design elements and contributed to the development of the company's new website whilst shadowing a senior developer - built with Ruby on Rails and React. The website is currently up and running with over 5000 active users.
 - Designed and produced marketing content - including custom email templates built with HTML and CSS
-- Oversaw design elements and contributed to the development of the company's new website - built with Ruby on Rails. The website is currently up and running with over 1000 active users.
+- Analysed fund holdings data in order to find opportunities to gain new clients
+
 
 ## Skills
 
@@ -60,4 +115,4 @@ My problem solving skills were tested at their peak during my time at university
 
 ## Hobbies
 
-In my spare time, I enjoy running, playing football, travelling and spending time with my family and friends. I also have a keen interest in poker.
+In my spare time, I enjoy playing football, travelling and spending time with my family and friends. I also have a keen interest in poker.
