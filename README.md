@@ -1,5 +1,7 @@
 # James Ruffini
 
+[LinkedIn](https://www.linkedin.com/in/james-ruffini-5281b016b/) | [Technical Skills](technical-skills) | [Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
+
 I am a hard-working and motivated aspiring Developer, with experience working in Operations in Financial Services, and IT Support; while also having an additional background in Physics and Environmental Science. I enjoy working effectively as part of a team, which has been key in my previous roles and lab work at university.
 
 I have recently completed my 16-week intensive development bootcamp at Makers Academy - one of UK's most esteemed software development training providers - and I am currently looking for my first full time role as a developer. Prior to Makers, my previous IT skills included proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
@@ -46,7 +48,9 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
         <ul>
           <li>Agile working</li>
           <li>Test Driven Development</li>
-          <li>Object Oriented Design</li>
+          <li>MVC</li>
+          <li>OOP/OOD</li>
+          <li>SOLID</li>
           <li>RESTful APIs</li>
           <li>Pair Programming & Group working</li>
           <li>Git Workflow</li>
@@ -64,8 +68,13 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 
 | Name                                                        | Description                                              | Tech/tools        |
 | ----------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
-| [**Notekeeper App**](https://github.com/iniffur/NoteKeeper) | A simple notekeeper app built as part of a Udemy course. | React, HTML, CSS |
-| [**Student Directory**](https://github.com/iniffur/student-directory)                              | Student Directory challenge completed as part of Makers Pre-Course                                      | Ruby              |
+| [**This Reeks**](https://github.com/iniffur/Fake-News) | A web application to detect potential clickbait and misinformation in news headlines. | TypeScript, NodeJS ExpressJS, HTML, CSS, Bootsrap, Jest, Cypress |
+| [**Acebook**](https://github.com/iniffur/acebook-monsters-inc)                              | A social media platform modelling Facebook including, user logins/signups, posts, likes, comments and friending                                      | JavaScript, NodeJS, ExpressJS, MongoDB, HTML, CSS, Bootstrap, Jest, Cypress              |
+| [**Notekeeper**](https://github.com/iniffur/NoteKeeper) | A CRUD Notekeeper app | React, HTML, CSS |
+| [**Gilded Rose**](https://github.com/iniffur/GildedRose-Challenge) | Solution to the famous Polymorphism kata, complere with 100% test coverage | JavaScript, Jest |
+| [**MakersBnB**](https://github.com/iniffur/MakersBNB) | Online travel website with user signups/logins, ability to list properties and bookings | Ruby, Sinatra, PostgreSQL, HTML, CSS, Jest |
+
+
 
 ## Work Experience
 
@@ -86,15 +95,15 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 
 ## Skills
 
-#### Strong communication
+### Strong communication
 
 By working at many different roles in various sized companies - I believe I have been able to develop very strong communication skills. Much of my most recent role involved constant communication with clients to maintain and build upon existing relatioinships - and my strong communication skills there in allowed service desk requests to be resolved smoothly.
 
-#### Fast Learner & Ability to Self Teach
+### Fast Learner & Ability to Self Teach
 
 I have always found myself to be quick to learn new things and adapt to new situations. During my role at the Independent Research Forum, due to the nature of the company, I found myself moved between projects very often and was kept on my toes. Being able to learn fast and grasp understandings of new company processes and technologies that I had not previously been exposed to led to a stronger work performance in comparision to others placed in similar situations. An example of this being when I was tasked to head up designing and crafting email templates; while I didn't have any prior experience with design or HTML and CSS, I was able to self teach and adapt to produce a solid end result.
 
-#### Problem Solving
+### Problem Solving
 
 My problem solving skills were tested at their peak during my time at university - where many of my modules were highly analytical and problem based. While I believe I have always possessed mathematical and logical thinking skills, they were further developed and refined more so here. More specifically, during my final dissertation - where very little was given in the way of guidance of how to achieve outcomes based on the initial hypothesis.
 
@@ -113,6 +122,9 @@ My problem solving skills were tested at their peak during my time at university
   - Mathematics with Physical Applications
   
 
-## Hobbies
+## Interests
 
-In my spare time, I enjoy playing football, travelling and spending time with my family and friends. I also have a keen interest in poker.
+- ⚽🏎️ Football/F1 Fan
+- ♦️♠️ Poker Player
+- 🎧🔊 DnB/Techno Lover
+- 👨‍🍳🍝 Amateur Pasta Maker
