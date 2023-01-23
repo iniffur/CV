@@ -111,6 +111,11 @@ My problem solving skills were tested at their peak during my time at university
 
 ### Makers Academy - London, UK (July-November 2022)
 
+- Learnt to write clean code with a strong focus on OOP, MVC, Code Visibility and Debugging practices
+- Built multiple full-stack web applications in both Javascript and Ruby under strict time constraints
+- Gained experience in Agile development and Pair-programming via multiple group projects and developed a strong confidence in accomplished Git workflow
+- Applied TDD throughout all projects built, gaining an appreciation of Red-Green refactoring
+
 ### University of Exeter (2015-2018)
 
 - Physics with Astrophysics
