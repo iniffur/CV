@@ -6,6 +6,8 @@ I am a hard-working and motivated aspiring Developer, with experience working in
 
 I have recently completed my 16-week intensive development bootcamp at Makers Academy - one of UK's most esteemed software development training providers - and I am currently looking for my first full time role as a developer. Prior to Makers, my previous IT skills included proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
 
+## Currently Reading 📖 - Life 3.0 by Max Tegmark
+
 ## Technical Skills
 
 <table>
@@ -134,6 +136,4 @@ My problem solving skills were tested at their peak during my time at university
 - 🎧🔊 DnB/Techno Lover
 - 👨‍🍳🍝 Amateur Pasta Maker
 
-## Currently Reading
 
-- Life 3.0 by Max Tegmark
