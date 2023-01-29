@@ -133,3 +133,7 @@ My problem solving skills were tested at their peak during my time at university
 - ♦️♠️ Poker Player
 - 🎧🔊 DnB/Techno Lover
 - 👨‍🍳🍝 Amateur Pasta Maker
+
+## Currently Reading
+
+- Life 3.0 by Max Tegmark
