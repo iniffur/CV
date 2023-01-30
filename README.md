@@ -84,9 +84,9 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 ### Maple Technology (June 2020 - Present) - Full Time/Part Time  
 #### Service Desk Analyst & Procurement Coordinator
 
-- Kept track of all inventory and was responsible for all supply chain demands
-- Managed all billing and payroll and organised all company expenditure using Xero
-- Handled and responded to all client service requests while maintaining a strong rapport with clients.
+- Keep track of all inventory and responsible for all supply chain demands
+- Manage all billing and payroll and organise all company expenditure using Xero
+- Handle and respond to all client service requests while maintaining a strong rapport with clients.
 
 ### Independent Research Forum (November 2020 - December 2021)  
 #### Operations Associate
