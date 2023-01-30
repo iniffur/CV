@@ -81,7 +81,7 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 
 ## Work Experience
 
-### Maple Technology (June 2020 - July 2022) - Full Time/Part Time  
+### Maple Technology (June 2020 - Present) - Full Time/Part Time  
 #### Service Desk Analyst & Procurement Coordinator
 
 - Kept track of all inventory and was responsible for all supply chain demands
