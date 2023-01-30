@@ -4,7 +4,7 @@
 
 I am a hard-working and motivated aspiring Developer, with experience working in Operations in Financial Services, and IT Support; while also having an additional background in Physics and Environmental Science. I enjoy working effectively as part of a team, which has been key in my previous roles and lab work at university.
 
-I have recently completed my 16-week intensive development bootcamp at Makers Academy - one of UK's most esteemed software development training providers - and I am currently looking for my first full time role as a developer. Prior to Makers, my previous IT skills included proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
+I have recently completed my 16-week intensive development bootcamp at Makers Academy - one of UK's most esteemed software development training providers - and I am currently looking for my first full-time role as a developer. Prior to Makers, my previous IT skills included proficiency and daily use of Microsoft Office, Bloomberg, Salesforce, and programming skills with HTML, CSS, Javascript and MATLAB. Along with my primary language of English, I can speak Italian at an intermediate level.
 
 ## Currently Reading 📖 - Life 3.0 by Max Tegmark
 
@@ -70,11 +70,11 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 
 | Name                                                        | Description                                              | Tech/tools        |
 | ----------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
-| [**This Reeks**](https://github.com/iniffur/Fake-News) | A web application to detect potential clickbait and misinformation in news headlines. | TypeScript, NodeJS ExpressJS, HTML, CSS, Bootsrap, Jest, Cypress |
+| [**This Reeks**](https://github.com/iniffur/Fake-News) | A web application to detect potential clickbait and misinformation in news headlines. | TypeScript, NodeJS ExpressJS, HTML, CSS, Bootstrap, Jest, Cypress |
 | [**Acebook**](https://github.com/iniffur/acebook-monsters-inc)                              | A social media platform modelling Facebook including, user logins/signups, posts, likes, comments and friending                                      | JavaScript, NodeJS, ExpressJS, MongoDB, HTML, CSS, Bootstrap, Jest, Cypress              |
 | [**Cryptocurrency Price Tracker - (WIP)**](https://github.com/iniffur/crypto-price-tracker) | A Cryptocurrency price tracker taking information from Coin Gecko's API | React, Bootstrap |
 | [**Notekeeper**](https://github.com/iniffur/NoteKeeper) | A CRUD Notekeeper app | React, HTML, CSS |
-| [**Gilded Rose**](https://github.com/iniffur/GildedRose-Challenge) | Solution to the famous Polymorphism kata, complere with 100% test coverage | JavaScript, Jest |
+| [**Gilded Rose**](https://github.com/iniffur/GildedRose-Challenge) | Solution to the famous Polymorphism kata, complete with 100% test coverage | JavaScript, Jest |
 | [**MakersBnB**](https://github.com/iniffur/MakersBNB) | Online travel website with user signups/logins, ability to list properties and bookings | Ruby, Sinatra, PostgreSQL, HTML, CSS, Jest |
 
 
@@ -86,7 +86,7 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 
 - Kept track of all inventory and was responsible for all supply chain demands
 - Managed all billing and payroll and organised all company expenditure using Xero
-- Handled and responded to all client service requests while maintaing a strong rapport with clients.
+- Handled and responded to all client service requests while maintaining a strong rapport with clients.
 
 ### Independent Research Forum (November 2020 - December 2021)  
 #### Operations Associate
@@ -95,20 +95,25 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 - Designed and produced marketing content - including custom email templates built with HTML and CSS
 - Analysed fund holdings data in order to find opportunities to gain new clients
 
+### Epping Forest District Council (January 2019 - February 2020)
+#### Contaminated Land Assistant Officer
+
+- Kept track of all contaminated land issues in new and existing planning permissions
+- Read through and analysed scientific reports with a team of several senior officers and consultants
 
 ## Skills
 
 ### Strong communication
 
-By working at many different roles in various sized companies - I believe I have been able to develop very strong communication skills. Much of my most recent role involved constant communication with clients to maintain and build upon existing relatioinships - and my strong communication skills there in allowed service desk requests to be resolved smoothly.
+By working in many different roles in various-sized companies - I believe I have been able to develop very strong communication skills. Much of my current part-time role involves constant communication with clients to maintain and build upon existing relationships - and my strong communication skills allow service desk requests to be resolved smoothly.
 
 ### Fast Learner & Ability to Self Teach
 
-I have always found myself to be quick to learn new things and adapt to new situations. During my role at the Independent Research Forum, due to the nature of the company, I found myself moved between projects very often and was kept on my toes. Being able to learn fast and grasp understandings of new company processes and technologies that I had not previously been exposed to led to a stronger work performance in comparision to others placed in similar situations. An example of this being when I was tasked to head up designing and crafting email templates; while I didn't have any prior experience with design or HTML and CSS, I was able to self teach and adapt to produce a solid end result.
+I have always found myself to be quick to learn new things and adapt to new situations. During my role at the Independent Research Forum, due to the nature of the company, I found myself moved between projects very often and was kept on my toes. Being able to learn fast and grasp an understanding of new company processes and technologies that I had not previously been exposed to led to stronger work performance in comparison to others placed in similar situations. An example of this was when I was tasked to head up designing and crafting email templates; while I didn't have any prior experience with design or HTML and CSS, I was able to self-teach and adapt to produce a solid end result.
 
-### Problem Solving
+### Problem-Solving
 
-My problem solving skills were tested at their peak during my time at university - where many of my modules were highly analytical and problem based. While I believe I have always possessed mathematical and logical thinking skills, they were further developed and refined more so here. More specifically, during my final dissertation - where very little was given in the way of guidance of how to achieve outcomes based on the initial hypothesis.
+My problem-solving skills were tested at their peak during my time at university - where many of my modules were highly analytical and problem-based. While I believe I have always possessed mathematical and logical thinking skills, they were further developed and refined here. More specifically, during my final dissertation - where very little was given in the way of guidance on how to achieve outcomes based on the initial hypothesis.
 
 ## Education
 
