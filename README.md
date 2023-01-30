@@ -72,6 +72,7 @@ I have recently completed my 16-week intensive development bootcamp at Makers Ac
 | ----------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
 | [**This Reeks**](https://github.com/iniffur/Fake-News) | A web application to detect potential clickbait and misinformation in news headlines. | TypeScript, NodeJS ExpressJS, HTML, CSS, Bootsrap, Jest, Cypress |
 | [**Acebook**](https://github.com/iniffur/acebook-monsters-inc)                              | A social media platform modelling Facebook including, user logins/signups, posts, likes, comments and friending                                      | JavaScript, NodeJS, ExpressJS, MongoDB, HTML, CSS, Bootstrap, Jest, Cypress              |
+| [**Cryptocurrency Price Tracker - (WIP)**](https://github.com/iniffur/crypto-price-tracker) | A Cryptocurrency price tracker taking information from Coin Gecko's API | React, Bootstrap |
 | [**Notekeeper**](https://github.com/iniffur/NoteKeeper) | A CRUD Notekeeper app | React, HTML, CSS |
 | [**Gilded Rose**](https://github.com/iniffur/GildedRose-Challenge) | Solution to the famous Polymorphism kata, complere with 100% test coverage | JavaScript, Jest |
 | [**MakersBnB**](https://github.com/iniffur/MakersBNB) | Online travel website with user signups/logins, ability to list properties and bookings | Ruby, Sinatra, PostgreSQL, HTML, CSS, Jest |
